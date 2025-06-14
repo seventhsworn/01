@@ -1,2 +1,3 @@
 # 01
-Stuff I do
+A collection of stuff i make 
+meow
